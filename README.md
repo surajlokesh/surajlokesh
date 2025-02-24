@@ -4,8 +4,6 @@
   <b>Software Engineer | Full-Stack Developer | AI & Trading Enthusiast</b>  
   <br/>
   💻 Passionate about Backend Engineering, Cloud Computing & AI  
-  <br/>
-  📍 Based in Miami, FL | Open to Relocation  
 </p>
 
 ---
