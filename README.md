@@ -24,7 +24,6 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 ### **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -46,12 +45,12 @@
 - Using **Meshy API** and **React** to create an interactive 3D viewer.
 - Optimizing **reinforcement learning techniques** to improve model performance.
 
-### **Software Engineer @ Evive (2022 – 2024)**
+### **Software Engineer @ Evive (2021 – 2022)**
 - **Led migration of microservices to AWS**, improving scalability by **40%**.
 - **Built and optimized backend APIs** using **Java & Spring Boot**.
 - **Reduced downtime by 20%** through an advanced **user monitoring system**.
 
-### **Deep Learning Development Intern @ Cyrrup Solutions**
+### **Software Engineer Intern @ Evive (2021 - 2021)**
 - Created a **deep learning model** for logistics and agro-sorting using **OpenCV**.
 - Improved inventory management for **Walmart sales analysis using PySpark**.
 
@@ -79,7 +78,7 @@
 - **Tech Stack:** Python, TensorFlow, Flask, React  
 - **Features:** Object rendering, AI-enhanced model optimization  
 - **Status:** 🚀 Live  
-- 🔗 **[Live Demo](#)** | 📂 **[Repo](#)**  
+- 📂 **Private Project**  
 
 ### **⚙️ Backend API Optimization @ Evive**
 - **Description:** Migrated backend services to **AWS Lambda & DynamoDB**, reducing operational costs by **30%**.  
