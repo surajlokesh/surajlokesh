@@ -93,6 +93,11 @@
 </p>
 
 ---
+## ⌨️  **Leetcode Stats**
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SuhasHareesh?theme=dark&font=Karma" width="80%" />
+</p>
+---
 
 ## 🌐 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj_Lokesh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/surajlokesh/)  
