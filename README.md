@@ -56,7 +56,7 @@
 
 ## 🎓 **Education**
 🎓 **Master of Science in Computer Science** | **Florida International University**  
-📌 **GPA:** 3.8/4.0  
+📌 **GPA:** 3.9/4.0  
 
 🎓 **Bachelor of Engineering in Computer Science** | **Siddaganga Institute of Technology**  
 📌 **GPA:** 7.5/10.0  
