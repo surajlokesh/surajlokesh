@@ -95,8 +95,7 @@
 ---
 ## ⌨️  **Leetcode Stats**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/
-Suraj_Lokesh?theme=dark&font=Karma" width="80%" />
+  <img src="https://leetcard.jacoblin.cool/Suraj_Lokesh?theme=dark&font=Karma" width="80%" />
 </p>
 ---
 
