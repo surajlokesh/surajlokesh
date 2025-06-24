@@ -60,21 +60,30 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"""
+
 
 ---
 
 ## 💼 Experience
 
 ### 🌟 Software Engineer Intern @ Lid Vizion (Aug 2024 – May 2025)
-- Developed an interactive 3D model viewer with React & Meshy API.
-- Integrated AWS S3 with pre-signed URLs for secure, scalable model access.
-- Improved system performance by 30% using server-side caching.
+- Designed and developed a responsive 3D model viewer using React and the Meshy API, allowing users to visualize AI-generated models seamlessly within a browser.
+- Engineered secure AWS S3 integration with pre-signed URLs to enable safe, scalable storage and retrieval of 3D assets without compromising access control.
+- Implemented server-side caching strategies and lazy loading mechanisms, resulting in a 30% improvement in overall system performance and reduced latency during heavy traffic.
+- Worked closely with product managers and UI designers to ensure optimal UX for game developers and AR content creators.
 
 ### 💼 Software Engineer @ Evive Health (Sep 2021 – Sep 2022)
-- Migrated monolithic systems to microservices using Spring Boot + AWS.
-- Decreased API latency by 25%, leading to recognition as **Team MVP**.
-- Automated deployment with Docker, Kubernetes, Jenkins.
+- Spearheaded the migration of monolithic applications to a microservices-based architecture using Spring Boot, AWS EC2, and Docker, enhancing platform scalability and maintainability by over 40%.
+- Developed and maintained RESTful APIs for user management and communication modules, ensuring data integrity and high availability across multiple services.
+- Integrated Datadog monitoring tools to detect anomalies in real time and created automated alert systems to proactively handle potential downtime issues.
+- Built and deployed containerized services using Docker and managed orchestration with Kubernetes, streamlining CI/CD pipelines and improving release cycles.
+- Earned recognition as Team MVP for exceptional ownership and impact on system reliability and performance optimization.
+
+### 💼 Software Engineer Intern @ Evive Health (Jan 2021 – Sep 2021)
+- Collaborated with a cross-functional team to enhance core modules of the ‘MyEvive’ platform, focusing on backend development and feature integration.
+- Created unit and integration tests with JUnit and Mockito, contributing to over 85% code coverage, which helped maintain production-level code quality.
+- Participated in daily Agile scrum meetings, sprint planning, and retrospectives, and delivered features within fast-paced two-week sprints.
+- Designed SQL queries and stored procedures to retrieve and process large-scale data sets for analytics dashboards.
 
 ---
 
